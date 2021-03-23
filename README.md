@@ -1,7 +1,7 @@
 # bial-telegram-bot
 
 <h1 align="center">
-    <img alt="Move.on" title="Move.on" src=".github/moveon.gif" />
+    <img alt="Move.on" title="Move.on" src="https://imgur.com/a/brprZCi />
 </h1>
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html" title="License GPLv3">
