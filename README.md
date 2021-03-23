@@ -4,8 +4,8 @@
     <img alt="Move.on" title="Move.on" src="https://i.imgur.com/xX5WfP3.png" />
 </h1>
 <p align="center">
-  <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html" title="License GPLv3">
-    <img  src="https://img.shields.io/github/license/schluters/nlw-move-on?color=00d700&style=for-the-badge" alt="License GPLv3">
+  <a href="https://opensource.org/licenses/MIT" title="MIT License">
+    <img  src="https://img.shields.io/github/license/pvict/bial-telegram-bot?color=00d700&style=for-the-badge" alt="MIT License">
   </a>
   
   <img src="https://img.shields.io/github/forks/schluters/nlw-move-on?label=forks&message=MIT&color=00d700&style=for-the-badge" alt="Forks">     
