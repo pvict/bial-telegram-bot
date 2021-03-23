@@ -27,13 +27,6 @@
 
 It can answer questions and make some jokes about the most popular reality show in Brazil: [Big Brother Brasil](https://gshow.globo.com/realities/bbb/) 🎥
 
-
-## :speech_balloon: You can talk to him!
-```bash
-- At Telegram, search for @BialBot
-- Then, use the commands available at the "Commands" section 
-```
-
 ## :wrench: Commands
 **/paredao** - informa os emparedados da semana
 
@@ -50,6 +43,12 @@ It can answer questions and make some jokes about the most popular reality show 
 **/contagem** - informa quantos dias faltam para o fim do BBB21
 
 **/rejeicao** - informa aleatoriamente qual seria o índice de rejeição do usuário em um paredão
+
+## :speech_balloon: You can talk to him!
+```bash
+- At Telegram, search for @BialBot
+- Then, use the commands available at the "Commands" section 
+```
 
 ## :electric_plug: Technologies:
 
