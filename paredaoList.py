@@ -1,0 +1,1 @@
+paredaoArray = ["Rodolffo", "Carla", "Fiuk"]

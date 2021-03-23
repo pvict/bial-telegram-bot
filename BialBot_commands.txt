@@ -1,0 +1,8 @@
+paredao - exibe os emparedados da semana 
+monstro - exibe os monstros da semana
+lider - exibe o líder da semana
+anjo - exibe o anjo da semana
+contagem - informa quantos dias faltam para o fim do BBB21
+rejeicao - qual seria sua rejeicao no BBB21?
+bigfone - atende ai kkkk
+quemsoueu - quem você seria no BBB21?
