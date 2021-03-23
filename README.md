@@ -52,9 +52,9 @@ It can answer questions and make some jokes about the most popular reality show 
 
 ## :electric_plug: Technologies:
 
-- **[Python](https://reactjs.org/)**
-- **[Telegram Bot API](https://nextjs.org/)**
-- **[python-telegram-bot](https://www.typescriptlang.org/)**
+- **[Python](https://www.python.org/)**
+- **[Telegram Bot API](https://core.telegram.org/bots/api)**
+- **[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)**
 
 ## :confused: How to contribute to project
 
