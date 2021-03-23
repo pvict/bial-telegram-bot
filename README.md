@@ -16,7 +16,7 @@
 <p align="center">
 
   <a target="_blank" href="https://nextjs.org/">
-      <img alt="NextJS" src="https://img.shields.io/static/v1?color=white&label=&message=Python&?style=flat-square&logo=Python">
+      <img alt="NextJS" src="https://img.shields.io/badge/%20-python-6454C8?logo=python&style=for-the-badge&logoColor=white">
   </a>
 
 </p>
@@ -78,9 +78,9 @@ Made with :purple_heart: by **Paulo Victor**
 
 <p align="left">
   <a href="https://github.com/pvict">
-    <img alt="Github" src="https://img.shields.io/badge/Github-%2300d700.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+    <img alt="Github" src="https://img.shields.io/badge/%20-GITHUB-6454C8?logo=github&style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/paulo-victor-da-silva-033410151/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2300d700.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/%20-Linkedin-6454C8?logo=linkedin&style=for-the-badge&logoColor=white"/>
   </a>
 </p>
