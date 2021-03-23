@@ -5,133 +5,57 @@
 </h1>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" title="MIT License">
-    <img  src="https://img.shields.io/github/license/pvict/bial-telegram-bot?color=00d700&style=for-the-badge" alt="MIT License">
+    <img  src="https://img.shields.io/github/license/pvict/bial-telegram-bot?color=6454C8&style=for-the-badge" alt="MIT License">
   </a>
   
-  <img src="https://img.shields.io/github/forks/schluters/nlw-move-on?label=forks&message=MIT&color=00d700&style=for-the-badge" alt="Forks">     
+  <img src="https://img.shields.io/github/forks/pvict/bial-telegram-bot?label=forks&message=MIT&color=6454C8&style=for-the-badge" alt="Forks">     
 
-  <img src="https://img.shields.io/github/stars/schluters/nlw-move-on?label=stars&message=MIT&color=00d700&style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/stars/pvict/bial-telegram-bot?label=stars&message=MIT&color=6454C8&style=for-the-badge" alt="Stars">
 
 </p>
 <p align="center">
-  <a target="_blank" href="https://reactjs.org/">
-    <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=for-the-badge&logo=React"> 
-  </a>
 
   <a target="_blank" href="https://nextjs.org/">
-      <img alt="NextJS" src="https://img.shields.io/static/v1?color=white&label=Next&message=JS&?style=for-the-badge&logo=Next.js">
+      <img alt="NextJS" src="https://img.shields.io/static/v1?color=white&label=&message=Python&?style=flat-square&logo=Python">
   </a>
 
 </p>
 
 ## :bookmark_tabs: About
 
-**Move.On** is an application based on the [Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) technique, aimed at developers that assists in the care of your health and posture.
+**@BialBot** is a chatbot developed for Telegram using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) and [Telegram Bot API](https://core.telegram.org/bots/api)
 
-System developed based on the knowledge acquired during a week of the **[&lt;nlw/&gt;#04](https://nextlevelweek.com/)** event by **[Rocketseat](https://rocketseat.com.br/)**, on the ReactJS trail taught by the famous “Fala Dev” [Diego Fernandes](https://github.com/diego3g).
-
-<p align="center">
-  <br />
-  <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">
-    <img alt="Figma" src="https://img.shields.io/badge/figma%201.0-%2300d700.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-  <a href="https://www.figma.com/file/7tXndNnentETZjBt4MEeU3/Move.it-2.0-(Copy)?node-id=160%3A2761">
-    <img alt="Figma" src="https://img.shields.io/badge/figma%202.0-%2300d700.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-  <br />
-  <small>
-    <em>Layouts by <a href="https://www.instagram.com/tiagoluchtenberg/" title="Instagram Tiago Luchtenberg">Tiago Luchtenberg</a></em>
-  </small>
-</p>
+It can answer questions and make some jokes about the most popular reality show in Brazil: [Big Brother Brasil](https://gshow.globo.com/realities/bbb/) 🎥
 
 
-#### :computer: Preview application
-[![Deploy with Vercel](https://vercel.com/button)](https://nlw-move-on.vercel.app/)
-
-## :ticket: Status
-:white_check_mark: DONE SUCCESSFULLY
+## :speech_balloon: You can talk to him!
 ```bash
-22 fev - Rumo ao próximo nível - #rumoaoproximonivel
-23 fev - Desvendando o Next.js - #jornadainfinita
-24 fev - Contexto e componentes - #focopraticagrupo
-25 fev - Storage, SSR & Lambda - #neverstoplearning
-26 fev - Próximo nível com React - #missioncomplete
-26 fev - Acelerando sua carreira - DONE
+- At Telegram, search for @BialBot
+- Then, use the commands available at the "Commands" section 
 ```
 
-## :tractor: Improvements
-- Added Sign In page
-- Added authentication with (Github, Google, Facebook)
-- Added Leaderboard page
-- Added Switch Theme Mode (Dark, Light)
-- Added Sidebar
-- Added PWA option in the application
-- Added Toast as notification
-- Added improvement in mobile notification
-- Added progress bar on the Abandon cycle button
-- Added share buttons (facebook, linkedin, twitter, whatsapp)
-- Added new challenges
-- Added new icons
-- Changed Color Scheme
+## :wrench: Commands
+**/paredao** - informa os emparedados da semana
 
-## :electric_plug: Technology:
+**/lider** - informa o líder da semana
 
-- **[ReactJS](https://reactjs.org/)**
-- **[NextJS](https://nextjs.org/)**
-- **[TypeScript](https://www.typescriptlang.org/)**
-- **[Firebase](https://firebase.google.com/?hl=pt-br)**
-- **[Styled Components](https://styled-components.com/)**
-- **[NextAuth](https://next-auth.js.org/)**
-- **[Next PWA](https://github.com/shadowwalker/next-pwa)**
-- **[React Hot Toast](https://react-hot-toast.com/)**
-- **[React Icons](https://react-icons.github.io/react-icons/)**
-- **[React Share](https://github.com/nygardk/react-share)**
-- **[React Switch](https://github.com/markusenglund/react-switch)**
-- **[Puppeteer](https://pptr.dev/)**
-- **[Eslint](https://eslint.org/)**
-- **[Prettier](https://prettier.io/)**
+**/monstro** - informa o(s) monstro(s) da semana
 
-## :rocket: How to run project
-Clone the project and access the folder
+**/anjo** - informa o anjo da semana
 
-```bash
-$ git clone https://github.com/schluters/nlw-move-on.git && cd nlw-move-on
-```
+**/bigfone** - exibe frases aleatórias e bem-humoradas a respeito do programa
 
-Follow the steps below
-```bash
-# Install the dependencies
-$ yarn
+**/quemsoueu** - exibe aleatoriamente qual participante da edição de 2021, com nome e foto, o usuário seria
 
-# Start the project
-$ yarn dev
+**/contagem** - informa quantos dias faltam para o fim do BBB21
 
-# The server will start at port:3000 - go to http://localhost:3000
-```
+**/rejeicao** - informa aleatoriamente qual seria o índice de rejeição do usuário em um paredão
 
-### :memo: Settings .ENV
-```bash
-# BASE APP
-AUTH_SECRET=""
-JWT_SECRET=""
-NEXTAUTH_URL="http://localhost:3000"
+## :electric_plug: Technologies:
 
-# FIREBASE
-NEXT_PUBLIC_FIREBASE_API_KEY=""
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=""
-
-# GITHUB
-GITHUB_ID=""
-GITHUB_SECRET=""
-
-# GOOGLE
-GOOGLE_CLIENT_ID=""
-GOOGLE_CLIENT_SECRET=""
-
-# FACEBOOK
-FACEBOOK_CLIENT_ID=""
-FACEBOOK_CLIENT_SECRET=""
-```
+- **[Python](https://reactjs.org/)**
+- **[Telegram Bot API](https://nextjs.org/)**
+- **[python-telegram-bot](https://www.typescriptlang.org/)**
 
 ## :confused: How to contribute to project
 
@@ -145,21 +69,18 @@ FACEBOOK_CLIENT_SECRET=""
 
 ## :book: License
 
-Fully open and free code for studies and copies under license [GPLv3](/LICENSE).
+Fully open and free code for studies and copies under license [MIT](/LICENSE).
 
 
 ## :mortar_board: Developed by
 
-Made with :green_heart: by **Herson Schluter**
+Made with :purple_heart: by **Paulo Victor**
 
 <p align="left">
-  <a href="https://app.rocketseat.com.br/me/herson-schluter">
-    <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-%2300d700.svg?&style=for-the-badge&logo=Apache%20RocketMQ&logoColor=white"/>
-  </a>
-  <a href="https://github.com/schluters">
+  <a href="https://github.com/pvict">
     <img alt="Github" src="https://img.shields.io/badge/Github-%2300d700.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/herson-schluter-3b664937/">
+  <a href="https://www.linkedin.com/in/paulo-victor-da-silva-033410151/">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2300d700.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
