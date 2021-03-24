@@ -1,6 +1,8 @@
 from telegram.ext import Updater, CommandHandler
 import logging
 
+import os
+
 import datetime
 import random
 import time
@@ -15,7 +17,7 @@ from monstroList import monstroArray
 from quoteList import quoteArray
 from participantes import elenco
 
-TOKEN = "1550816757:AAFsw0wsY3MnbfIQmSg6kVlVUpXs0l_1jmY"
+TOKEN = os.environ['TOKENAPI']
 
 def getParticipante():
   randomNumber = random.randint(0, len(elenco)-1)
@@ -43,6 +45,7 @@ def getPhoneQuote():
 
 def start(update, context):
     s = "Vem dar uma espiadinha! 👁"
+    print(os.environ)
     update.message.reply_text(s)
 
 
