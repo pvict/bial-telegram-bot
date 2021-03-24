@@ -56,7 +56,7 @@ It can answer questions and make some jokes about the most popular reality show 
 - **[Telegram Bot API](https://core.telegram.org/bots/api)**
 - **[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)**
 
-## :confused: How to contribute to project
+## :confused: How to contribute to the project
 
 - **Fork** the project;
 - Create a new branch with your changes: `git checkout -b my-feature`
