@@ -15,7 +15,7 @@
 </p>
 <p align="center">
 
-  <a target="_blank" href="https://nextjs.org/">
+  <a target="_blank" href="https://www.python.org/">
       <img alt="NextJS" src="https://img.shields.io/badge/%20-python-6454C8?logo=python&style=for-the-badge&logoColor=white">
   </a>
 
