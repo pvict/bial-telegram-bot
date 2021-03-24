@@ -79,7 +79,7 @@ Made with :purple_heart: by **Paulo Victor**
   <a href="https://github.com/pvict">
     <img alt="Github" src="https://img.shields.io/badge/%20-GITHUB-6454C8?logo=github&style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pvict//">
+  <a href="https://www.linkedin.com/in/pvict/">
     <img alt="Linkedin" src="https://img.shields.io/badge/%20-Linkedin-6454C8?logo=linkedin&style=for-the-badge&logoColor=white"/>
   </a>
 </p>
