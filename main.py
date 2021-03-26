@@ -1,8 +1,7 @@
 from telegram.ext import Updater, CommandHandler
+
 import logging
-
 import os
-
 import datetime
 import random
 import time
@@ -10,14 +9,9 @@ import pytz
 
 tz_BR = pytz.timezone('America/Sao_Paulo')
 
-from paredaoList import paredaoArray
-from liderVar import liderValue
-from anjoVar import anjoValue
-from monstroList import monstroArray
-from quoteList import quoteArray
-from participantes import elenco
+from botData import paredaoArray, liderValue, anjoValue, monstroArray, quoteArray, elenco
 
-TOKEN = os.environ['TOKENAPI']
+TOKEN = "1550816757:AAFsw0wsY3MnbfIQmSg6kVlVUpXs0l_1jmY"
 
 def getParticipante():
   randomNumber = random.randint(0, len(elenco)-1)
@@ -94,14 +88,14 @@ def lider(update, context):
     update.message.reply_text(s)
 
 def anjo(update, context):
-    if getWeekDay() >= 4:
+    if getWeekDay() >= 5:
       s = "O anjo é: " + anjoValue + " 😇"
     else:
       s = "Não há anjo definido! ❌"
     update.message.reply_text(s)
 
 def monstro(update, context):
-  if getWeekDay() >= 4:
+  if getWeekDay() >= 5:
     if len(monstroArray) > 1:
       s = "Os monstros são: "
       for x in range(len(monstroArray)):

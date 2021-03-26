@@ -1,1 +1,0 @@
-monstroArray = ["Rodolffo","Arthur"]
