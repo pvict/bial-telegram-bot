@@ -11,7 +11,7 @@ tz_BR = pytz.timezone('America/Sao_Paulo')
 
 from botData import paredaoArray, liderValue, anjoValue, monstroArray, quoteArray, elenco
 
-TOKEN = "1550816757:AAFsw0wsY3MnbfIQmSg6kVlVUpXs0l_1jmY"
+TOKEN = os.environ["TOKENAPI"]
 
 def getParticipante():
   randomNumber = random.randint(0, len(elenco)-1)
