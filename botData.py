@@ -1,8 +1,8 @@
-anjoValue = "Viih Tube"
+anjoValue = "Thaís"
 
 liderValue = "o Arthur"
 
-monstroArray = ["Rodolffo", "Arthur"]
+monstroArray = ["Sarah", "Gilberto"]
 
 paredaoArray = ["Rodolffo", "Carla", "Fiuk"]
 
