@@ -55,6 +55,7 @@ It can answer questions and make some jokes about the most popular reality show 
 - **[Python](https://www.python.org/)**
 - **[Telegram Bot API](https://core.telegram.org/bots/api)**
 - **[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)**
+- **[pytz](https://pypi.org/project/pytz/)**
 
 ## :confused: How to contribute to the project
 
