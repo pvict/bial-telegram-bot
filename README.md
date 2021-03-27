@@ -57,7 +57,7 @@ It can answer questions and make some jokes about the most popular reality show 
 - **[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)**
 - **[pytz](https://pypi.org/project/pytz/)**
 
-## :confused: How to contribute to the project
+## :wave: How to contribute to the project
 
 - **Fork** the project;
 - Create a new branch with your changes: `git checkout -b my-feature`
