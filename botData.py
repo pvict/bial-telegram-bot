@@ -35,7 +35,7 @@ quoteArray = [
     "Você está imune! 👼",
     "Você recebeu R$ 50.000 na sua carteira do PicPay 💲",
     "Indique 2 pessoas ao paredão 😈",
-    "TOP 10 aprensentadores de BBB: Eu 😎",
+    "TOP 10 apresentadores de BBB: Eu 😎",
     "Escolha uma música para o Gil cantar 🎵",
     "Indique 3 pessoas para irem ao paredão com você 😈",
     "Rodolffo diz: Arrebentando arame, rasteira baiana, engrenagem enpenando. Bicicleta perdendo freio na descida, vaca entrando no meio de roça!, moto fazendo tananananannann 🤠",
