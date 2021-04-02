@@ -1,6 +1,6 @@
 anjoValue = "Thaís"
 
-liderValue = "o Arthur"
+liderValue = "a Viih Tube"
 
 monstroArray = ["Sarah", "Gilberto"]
 
