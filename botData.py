@@ -2,7 +2,7 @@ anjoValue = "o Gilberto e o Fiuk"
 
 liderValue = "a Viih Tube"
 
-monstroArray = ["Sarah", "Gilberto"]
+monstroArray = ["Caio", "Rodolffo"]
 
 paredaoArray = ["Juliette", "Rodolffo", "Sarah"]
 
