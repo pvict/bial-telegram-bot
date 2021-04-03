@@ -1,4 +1,4 @@
-anjoValue = "Thaís"
+anjoValue = "O Gilberto"
 
 liderValue = "a Viih Tube"
 
