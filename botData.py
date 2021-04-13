@@ -4,7 +4,7 @@ liderValue = "o Caio"
 
 monstroArray = ["Caio", "Rodolffo"]
 
-paredaoArray = ["Caio", "Gilberto", "Rodolffo"]
+paredaoArray = ["Arthur", "Fiuk", "Thaís"]
 
 elenco = [
     ['o Arthur', 'https://uploads.metropoles.com/wp-content/uploads/2021/03/02145955/arthur_bbb21-600x400.jpg'],
